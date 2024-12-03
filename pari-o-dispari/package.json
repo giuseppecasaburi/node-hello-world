@@ -1,0 +1,13 @@
+{
+  "name": "pari-o-dispari",
+  "version": "1.0.0",
+  "main": "oddEven.js",
+  "scripts": {
+    "start": "node oddEven.js",
+    "dev": "node --watch oddEven.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
