@@ -1,0 +1,13 @@
+{
+  "name": "conta-vocali",
+  "version": "1.0.0",
+  "main": "contaVocali.js",
+  "scripts": {
+    "start": "node contaVocali.js",
+    "dev": "node --watch contaVocali.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
